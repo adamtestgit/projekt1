@@ -1,0 +1,3 @@
+void wypisz(){
+cout<<"funkcja1";
+}
